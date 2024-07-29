@@ -6,7 +6,7 @@ Hi there, I'm Bernardo! 👋
 I'm a student with a passion for developing tools and cybersecurity. Driven by curiosity, I continuously look forward to learn new technologies, methodologies and concepts in software development and security.
 
 🧠 Skills <br>
-BACKEND: Java / SpringBoot (self-taught). <br>
+BACKEND: Java / JSP and JDBC / SpringBoot (self-taught). <br>
 DB: MySQL. <br>
 Languages: Python, C.
 
