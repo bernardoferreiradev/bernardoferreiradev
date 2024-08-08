@@ -7,7 +7,7 @@ I'm a student with a passion for developing tools and cybersecurity. Driven by c
 
 🧠 Skills <br>
 BACKEND: Java / JSP and JDBC / SpringBoot (self-learning). <br>
-DB: MySQL. <br>
+DB: SQL / MySQL / MSQLSERVER . <br>
 Languages: Python, C.
 
 📚 Currently Learning <br>
