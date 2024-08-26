@@ -1,43 +1,20 @@
-# bernardoferreiradev
-Hi there, I'm Bernardo! 👋
+## whoami
+Welcome to my portfolio I'm Bernardo. I currently live in porto, portugal and I'm still a student. <br><br>
+I enjoy programming and I've messed around with some programming languages, mainly Java and Python. Alongside coding, I've spent time working with Linux, especially using Kali for CTF challenges. This has helped me learn the Linux environment and explore the various testing tools it offers.
 
-#hello, test
+## Organized details
+* **Name**: Bernardo Ferreira
+* **Age**: 20
+* **Living in**: Porto, Portugal
+* **Skills**: Python - Java - SQL - C - Assembly 
+* **Learning**: Continuously learning about security across various applications, including web, Wi-Fi, and more.
+* **University**: Universidade Lusófona do Porto since 2022
+* **Languages**: Portuguese - English - German
 
-👨‍💻 About Me <br>
-I'm a student with a passion for developing tools and cybersecurity. Driven by curiosity, I continuously look forward to learn new technologies, methodologies and concepts in software development and security.
-
-🧠 Skills <br>
-BACKEND: Java / JSP and JDBC / SpringBoot (self-learning). <br>
-DB: SQL / MySQL / MSQLSERVER . <br>
-Languages: Python, C.
-
-📚 Currently Learning <br>
-Software development in different fields. <br> 
-Security/Networking concepts and  mainly self-taught.
-
-🎯 Goals <br>
-Combine security with development to build tools, stay updated with the latest technologies, and excel as a recognized professional in the field.
-
+## Goals
+My main goal is to work in the cybersecurity field, which I’m passionate about, and to become a skilled professional. I want to feel confident in handling different challenges across various areas of security.
 
 <div>
-<a href="https://beacons.ai/bernardoferreiradev">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoferreiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoferreiradev&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-
-<div style="display: inline-block"><br>
-<img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Pycharm" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-<img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-
-
-<div>
-  <a href="bernardodferreira@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardodferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardoferreiradev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="200"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoferreiradev&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
 </div>
