@@ -14,6 +14,8 @@ I enjoy programming and I've messed around with some programming languages, main
 ## Goals
 My main goal is to work in the cybersecurity field, which I’m passionate about, and to become a skilled professional. I want to feel confident in handling different challenges across various areas of security.
 
+<br>
+
 <div>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardoferreiradev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="200"/>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoferreiradev&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
