@@ -28,7 +28,7 @@ My main goal is to work in the cybersecurity field, which I’m passionate about
 <br>
 
 <div align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardoferreiradev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="200"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoferreiradev&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardoferreiradev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="170"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoferreiradev&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="170"/>
 </div>
 
