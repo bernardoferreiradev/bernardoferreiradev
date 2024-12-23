@@ -1,5 +1,5 @@
 ## whoami
-Welcome to my portfolio I'm Bernardo. I currently live in porto, portugal and I'm still a student. <br><br>
+Welcome to my portfolio I'm Bernardo. I currently live in porto, Portugal and I'm still a student. <br><br>
 I enjoy programming and I've messed around with some programming languages, mainly Java and Python. Alongside coding, I've spent time working with Linux, especially using Kali for CTF challenges. This has helped me learn the Linux environment and explore the various testing tools it offers.
 
 ## Organized Details
